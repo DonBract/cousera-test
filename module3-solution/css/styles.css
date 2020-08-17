@@ -64,6 +64,8 @@ li {
 
 h2 {
     margin-top: 0;
+    font-size: 1.8em;
+    font-weight: bold;
 }
 .row div section {
     background-color: #f6b319;
